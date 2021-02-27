@@ -10,3 +10,6 @@ function myLink3 (){
 function myLink4 (){
     window.open( 'https://www.youtube.com/watch?v=DchfEuUo4fk&ab_channel=BibliotekosPazangai' ,  '_blank');
 }
+function myLink5 (){
+    window.open( 'https://testas.draugiskasinternetas.lt/' ,  '_blank');
+}
